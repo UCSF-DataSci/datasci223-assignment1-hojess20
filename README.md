@@ -55,6 +55,8 @@ Replace the "Part 1" section with:
 - Topics you would like to see included
 - A musical recommendation and a link to something about it (song, album, artist)
 
+Hi, I'm Jessica. I am a first-year health data science master's student at ucsf. I'm hoping to build a foundation in common machine learning techniques in Python. I'm also hoping to strengthen my basic Python skills. I'd like to learn more about data visualizations and large language models. In terms of music, I would like to recommend..
+
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
 1. Accept an email address as a command line argument

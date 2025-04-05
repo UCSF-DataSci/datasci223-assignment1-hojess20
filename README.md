@@ -55,7 +55,8 @@ Replace the "Part 1" section with:
 - Topics you would like to see included
 - A musical recommendation and a link to something about it (song, album, artist)
 
-Hi, I'm Jessica. I am a first-year health data science master's student at ucsf. I'm hoping to build a foundation in common machine learning techniques in Python. I'm also hoping to strengthen my basic Python skills. I'd like to learn more about data visualizations and large language models. In terms of music, I would like to recommend..
+Hi, I'm Jessica. I am a first-year health data science master's student at ucsf. I'm hoping to build a foundation in common machine learning techniques in Python. I'm also hoping to strengthen my basic Python skills. I'd like to learn more about data visualizations and large language models. In terms of music, I would like to recommend a song that I have been listening to on repeat called "Can You Feel My Love" by Cherry Kim. [Here's a link to the music video!](https://www.youtube.com/watch?v=_46nasucGD8&ab_channel=FirstFloorCollective)
+
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:

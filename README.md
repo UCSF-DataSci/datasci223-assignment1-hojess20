@@ -52,7 +52,7 @@ This assignment will help you practice:
 - Hi, I'm Jessica! I am a first-year health data science master's student at UCSF.
 - I'm hoping to build a foundation in common machine learning techniques in Python. I would also like to strengthen my basic Python skills to prepare for real-world applications.
 - I'd like to learn more about data visualizations and large language models.
-- In terms of music, I would like to recommend a song that I have been listening to on repeat called "Can You Feel My Love" by Cherry Kim. [Here's a link to the music video!](https://www.youtube.com/watch?v=_46nasucGD8&ab_channel=FirstFloorCollective)
+- In terms of music, I would like to recommend a song that I have been listening to on repeat called "Can You Feel It?" by Cherry Kim. [Here's a link to the music video!](https://www.youtube.com/watch?v=_46nasucGD8&ab_channel=FirstFloorCollective)
 
 
 ### Part 2: Complete the email_hasher.py Script

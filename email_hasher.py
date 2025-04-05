@@ -16,16 +16,9 @@ import sys
 import hashlib
 
 def hash_email(email):
-    hashEmail = hashlib.sha256(email)
-    hex_dig = hashEmail.hexdigest()
-    return hex_dig
-    print(f"Hashed String: {hex_dig}")
-
-'''
     email_bytes = email.encode('utf-8')
     sha256_hash = hashlib.sha256(email_bytes)
     return sha256_hash.hexdigest()
-'''
 
     """
     Hash an email address using SHA-256 and return the hexadecimal digest.
